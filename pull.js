@@ -306,7 +306,7 @@ export async function main(ns) {
     const home = "home";
     // The base URL where files are found.
     const github = "https://raw.githubusercontent.com/";
-    const quack = "quacksouls/bitburner/main/src/";
+    const quack = "SK-24Artemis/bitburner/main/src/";
     const prefix = github + quack;
     // Pull files into home server.
     for (const f of dir_structure()) {
