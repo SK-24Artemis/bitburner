@@ -283,7 +283,7 @@ function target_name(f) {
  * @param {NS} ns The Netscript API.
  */
 function usage(ns) {
-    const msg = "Usage: run pull.js";
+    const msg = "Usage: run bit-pull.js";
     ns.tprintf(msg);
 }
 
